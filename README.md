@@ -1,8 +1,8 @@
 # GNN-Related-Papers
 This is a project to collect and share papers about GNN. Papers can be systematic or algorithmic. As long as you feel fruitful, you can share them with us!
 # Content
-- <a href = "#GNN System Paper">New infrastructure</a>
-- <a href = "#GNN Algorithmic Paper">WhitePaper</a>
+- <a href = "#GNN System Paper">GNN System Paper</a>
+- <a href = "#GNN Algorithmic Paper">GNN Algorithmic Paper</a>
 
 ## [GNN Algorithmic Paper](#content)
 
