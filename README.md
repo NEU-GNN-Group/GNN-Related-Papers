@@ -31,7 +31,8 @@ This is a project to collect and share papers about GNN. Papers can be systemati
 ## [Accelerator](#content)
 | Reference                       | System | Description                                                  | Architecture                            |
 | :-----------------------------: | :----- | ------------------------------------------------------------ | --------------------------------------- |
-  
+| | | | |
+
 # [GNN Algorithmic Paper](#content)
 | Reference                       | Modules | Description                                                  | Architecture                            |
 | :-----------------------------: | ------- | ------------------------------------------------------------ | --------------------------------------- |
