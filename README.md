@@ -8,4 +8,4 @@ This is a project to collect and share papers about GNN. Papers can be systemati
 
 | Reference                       | Modules | Description                                                  | Architecture                            |
 | ------------------------------- | ------- | ------------------------------------------------------------ | --------------------------------------- |
-| <a href = "#https://github.com/NEU-GNN-Group/GNN-Related-Papers/edit/main/README.md">[1]</a> | GCN     |  | ![GCN](./image/algorithmic/GCN.png) |
+| <a href = "https://openreview.net/pdf?id=SJU4ayYgl">[1]</a> | GCN     |  | ![GCN](./image/algorithmic/GCN.png) |
