@@ -28,6 +28,10 @@ This is a project to collect and share papers about GNN. Papers can be systemati
 | <a href = "https://www.usenix.org/system/files/osdi21-thorpe.pdf">[8]</a> |  Dorylus(2021)    | <ul><li>divides a training pipeline into a set of fine-grained tasks</li><li>performs a unique form of bounded asynchronous training</li></ul> | ![DGCL](./image/system/dgcl.png) |
 | <a href = "https://www.usenix.org/system/files/osdi21-gandhi.pdf">[9]</a> |  P3(2021)    | <ul><li>proposes a push-pull parallelism based execution strategy that combines intra-layer model parallelism with data parallelism</li></ul> | ![P3](./image/system/p3.png) |
 
+## [Accelerator](#content)
+| Reference                       | System | Description                                                  | Architecture                            |
+| :-----------------------------: | :----- | ------------------------------------------------------------ | --------------------------------------- |
+  
 # [GNN Algorithmic Paper](#content)
 | Reference                       | Modules | Description                                                  | Architecture                            |
 | :-----------------------------: | ------- | ------------------------------------------------------------ | --------------------------------------- |
