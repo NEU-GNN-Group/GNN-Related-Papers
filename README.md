@@ -25,7 +25,7 @@ This is a project to collect and share papers about GNN. Papers can be systemati
 | <a href = "https://arxiv.org/pdf/2010.05337.pdf">[5]</a> |  DistDGL(2020)    | <ul><li>adopts METIS to partition a graph</li><li>replicates halo nodes</li></ul> | ![DistDGL](./image/system/distdgl.png) |
 | <a href = "https://arxiv.org/pdf/2104.06700.pdf">[6]</a> |  DistGNN(2021)    | <ul><li>a highly architecture-optimized implementation for single socket CPUs</li><li>a minimum vertex-cut graph partitioning algorithm</li><li>a family of delayed update algorithms</li></ul> | ![DistGNN](./image/system/distgnn.png) |
 | <a href = "https://dl.acm.org/doi/pdf/10.1145/3447786.3456233">[7]</a> |  DGCL(2021)    | <ul><li>SPST algorithm for communication planning</li></ul> | ![DGCL](./image/system/dgcl.png) |
-| <a href = "https://www.usenix.org/system/files/osdi21-thorpe.pdf">[8]</a> |  Dorylus(2021)    | <ul><li>divides a training pipeline into a set of fine-grained tasks</li><li>performs a unique form of bounded asynchronous training</li></ul> | ![DGCL](./image/system/dgcl.png) |
+| <a href = "https://www.usenix.org/system/files/osdi21-thorpe.pdf">[8]</a> |  Dorylus(2021)    | <ul><li>divides a training pipeline into a set of fine-grained tasks</li><li>performs a unique form of bounded asynchronous training</li></ul> | ![Dorylus](./image/system/dorylus.png) |
 | <a href = "https://www.usenix.org/system/files/osdi21-gandhi.pdf">[9]</a> |  P3(2021)    | <ul><li>proposes a push-pull parallelism based execution strategy that combines intra-layer model parallelism with data parallelism</li></ul> | ![P3](./image/system/p3.png) |
 
 ## [Accelerator](#content)
