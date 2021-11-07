@@ -8,4 +8,4 @@ This is a project to collect and share papers about GNN. Papers can be systemati
 
 | Reference                       | Modules | Description                                                  | Architecture                            |
 | ------------------------------- | ------- | ------------------------------------------------------------ | --------------------------------------- |
-| <a href = "#one">[1]</a> | GCN     | . | ![GCN](./img/algorithmic/gcn.png) |
+| <a href = "#one">[1]</a> | GCN     | . | ![GCN](./img/algorithmic/GCN.png) |
