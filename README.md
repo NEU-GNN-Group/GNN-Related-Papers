@@ -9,15 +9,15 @@ This is a project to collect and share papers about GNN. Papers can be systemati
 
 # [GNN System Paper](#content)
 ## [Single Machine System](#content)
-| Reference                       | System | Description                                                  | Architecture                            |
-| :-----------------------------: | :----- | ------------------------------------------------------------ | --------------------------------------- |
+| Reference                       | System | Description                                                  | Architecture                            |Author & Journal                      |
+| :-----------------------------: | :----- | ------------------------------------------------------------ | --------------------------------------- |--------------------------------------- |
 | <a href = "https://arxiv.org/pdf/1903.02428.pdf">[1]</a> | PyG(2019)     | <ul><li>GNN update abstract representation</li><li>sparse GPU acceleration, dedicated CUDA kernels, efficient mini-batch</li><li>support both CPU and GPU computations</li></ul> | ![PyG](./image/system/pyg.png) |
 | <a href = "https://arxiv.org/pdf/1909.01315.pdf">[2]</a> | DGL (2019)    | <ul><li>provides user-configurable message-passing primitives</li><li>makes graph the central programming abstraction</li> | ![DGL](./image/system/dgl.png) |
 | <a href = "https://www.usenix.org/system/files/atc19-ma_0.pdf">[3]</a> | NeuGraph (2019) | <ul><li>bridges the graph and dataflow models</li><li>proposes a new programming model called SAGA-NN (Scatter-ApplyEdge-Gather-ApplyVertex with Neural Networks)</li> | ![NeuGraph](./image/system/neugraph.png) |
 
 ## [Distributed GNN System](#content)
-| Reference                       | System | Description                                                  | Architecture                            |
-| :-----------------------------: | :----- | ------------------------------------------------------------ | --------------------------------------- |
+| Reference                       | System | Description                                                  | Architecture                            |Author & Journal                      |
+| :-----------------------------: | :----- | ------------------------------------------------------------ | --------------------------------------- |--------------------------------------- |
 | <a href = "http://www.vldb.org/pvldb/vol12/p2094-zhu.pdf">[1]</a> | AliGraph(2019)     | <ul><li>the caching strategy: caching neighbors of some important vertices</li><li>abstract three kinds of different samplers: TRAVERSE、 NEIGHBORHOOD、 NEGATIVE</li></ul> | ![AliGraph](./image/system/aligraph.png) |
 | <a href = "https://github.com/alibaba/euler/wiki/System-Introduction">[2]</a> | Euler(2019)    | <ul><li>layered abstraction and flexible extensity</li><li>heterogeneous graph embedding</li></ul> | ![Euler](./image/system/euler.png) |
 | <a href = "http://www.vldb.org/pvldb/vol13/p3125-zhang.pdf">[3]</a> |  AGL(2020)    | <ul><li>constructs K-hop neighborhood for each node</li><li>abstracts all the message passing schemes in training and inference, and implement them simply using MapReduce</li></ul> | ![AGL](./image/system/agl.png) |
@@ -29,11 +29,11 @@ This is a project to collect and share papers about GNN. Papers can be systemati
 | <a href = "https://www.usenix.org/system/files/osdi21-gandhi.pdf">[9]</a> |  P3(2021)    | <ul><li>proposes a push-pull parallelism based execution strategy that combines intra-layer model parallelism with data parallelism</li></ul> | ![P3](./image/system/p3.png) |
 
 ## [Accelerator](#content)
-| Reference                       | System | Description                                                  | Architecture                            |
-| :-----------------------------: | :----- | ------------------------------------------------------------ | --------------------------------------- |
+| Reference                       | System | Description                                                  | Architecture                            |Author & Journal                      |
+| :-----------------------------: | :----- | ------------------------------------------------------------ | --------------------------------------- |--------------------------------------- |
 | | | | |
 
 # [GNN Algorithmic Paper](#content)
-| Reference                       | Modules | Description                                                  | Architecture                            |
-| :-----------------------------: | ------- | ------------------------------------------------------------ | --------------------------------------- |
+| Reference                       | Modules | Description                                                  | Architecture                            |Author & Journal                      |
+| :-----------------------------: | ------- | ------------------------------------------------------------ | --------------------------------------- |--------------------------------------- |
 | <a href = "https://openreview.net/pdf?id=SJU4ayYgl">[1]</a> | GCN     |  | ![GCN](./image/algorithmic/GCN.png) |
